@@ -1,0 +1,24 @@
+.heading
+{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px greenyellow;
+}
+.note
+{
+font-size: 18px;
+color: black;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black ;
+    bottom: 0;
+    width: 100%;
+background:linear-gradient( cyan,blue,rgb(177, 24, 177));
+line-height: 3;
+text-align: center;
+}
